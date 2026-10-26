@@ -74,7 +74,7 @@ By reinterpreting these traditional motifs in a playing card, this project explo
 - **Assignment:** Practical Assignment 1 - Vector Illustration
 - **Project brief:** *A Dar Cartas*
 - **Software:** Affinity
-- **Submission dates:** 27 October 2026 (EST) and 29 October 2026 (OAZ)
+- **Submission dates:** 27 October 2026 (EST)
 
 ---
 
