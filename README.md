@@ -1,4 +1,4 @@
-# Two of Hearts — Portuguese Folk Art
+# Two of Hearts - Portuguese Folk Art
 
 A vector illustration project inspired by **Lenços de Namorados**, the traditional love handkerchiefs from the Minho region of Portugal.
 
@@ -69,9 +69,9 @@ By reinterpreting these traditional motifs in a playing card, this project explo
 
 ## Academic Context
 
-- **Course:** Software Development — CTeSP, 2nd Year
+- **Course:** Software Development - CTeSP, 2nd Year
 - **Course unit:** Authoring Tools (*Ferramentas de Autoria*)
-- **Assignment:** Practical Assignment 1 — Vector Illustration
+- **Assignment:** Practical Assignment 1 - Vector Illustration
 - **Project brief:** *A Dar Cartas*
 - **Software:** Affinity
 - **Submission dates:** 27 October 2026 (EST) and 29 October 2026 (OAZ)
