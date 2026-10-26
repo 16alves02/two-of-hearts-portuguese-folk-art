@@ -16,11 +16,11 @@ The color palette combines cream, red, pink, green, and blue.
 
 ### Front
 
-![Final front design of the Two of Hearts playing card](assets/front.png)
+![Final front design of the Two of Hearts playing card](two-of-hearts-portuguese-folk-art/assets/front.png)
 
 ### Back
 
-![Final back design of the Two of Hearts playing card](assets/back.png)
+![Final back design of the Two of Hearts playing card](two-of-hearts-portuguese-folk-art/assets/back.png)
 
 ## Design Process
 
@@ -28,7 +28,7 @@ The color palette combines cream, red, pink, green, and blue.
 
 The initial phase involved collecting visual references and exploring the colors, symbols, and decorative patterns associated with Lenços de Namorados.
 
-![Moodboard with visual references and initial AI concepts](assets/moodboard.png)
+![Moodboard with visual references and initial AI concepts](two-of-hearts-portuguese-folk-art/assets/moodboard.png)
 
 ### 2. AI-Generated Concepts
 
@@ -40,11 +40,11 @@ I used an AI image generation tool to explore an initial concept for the front a
 
 #### AI-Generated Front
 
-![AI-generated concept for the front of the card](assets/ai-generated-front.jpg)
+![AI-generated concept for the front of the card](two-of-hearts-portuguese-folk-art/assets/ai-generated-front.jpg)
 
 #### AI-Generated Back
 
-![AI-generated concept for the back of the card](assets/ai-generated-back.jpg)
+![AI-generated concept for the back of the card](two-of-hearts-portuguese-folk-art/assets/ai-generated-back.jpg)
 
 ### 3. Vector Illustration
 
@@ -59,7 +59,7 @@ Using the moodboard and AI-generated concepts as references, I developed my own 
 - **Front:** Two stylized birds, a central heart, and floral ornaments
 - **Back:** Continuous folk-inspired decorative pattern
 - **Color palette:** Cream, red, pink, green, and blue
-- **Editable source file:** [two-of-hearts.af](artwork/two-of-hearts.af)
+- **Editable source file:** [two-of-hearts.af](two-of-hearts-portuguese-folk-art/artwork/two-of-hearts.af)
 
 ## Cultural Inspiration
 
